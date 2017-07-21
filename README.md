@@ -1,7 +1,7 @@
 # YGZ-Stereo-Inertial
 This is YGZ-stereo-inertial SLAM, a stereo inertial VO code. It is designed for stereo and stereo-inertial sensor modules like vi-sensor. It uses a LK optical flow as front-end and a sliding window bundle adjustment as a backend. Feel free to try it in datasets and your own sensors. 
 
-The code is experimental and I cann't garantee its performance in all cases.
+The code is experimental and I can't guarantee  its performance in all cases.
 
 # Dependency
 If you are using ubuntu, just type "./install_dep.sh" to install all the dependencies except pangolin.
@@ -39,7 +39,7 @@ The Note.md is a file of develop records.
 
 Contact me (gaoxiang12@mails.tsinghua.edu.cn) or Wang Jing (https://github.com/jingpang) for commercial use.
 
-Thanks the following companies/people for finantial support:
+Thanks the following companies/people for financial support:
 - Usens凌感科技
 - Hyperception 远形时空
 - Qfeeltech 速感科技
